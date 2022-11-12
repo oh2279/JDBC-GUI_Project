@@ -65,6 +65,5 @@ public class Frame2 extends JFrame{
     public static void main(String[] args) {
         new Frame2();
     }
-    // 기본 설정
 
 }
